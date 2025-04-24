@@ -1,0 +1,93 @@
+{
+  "header": {
+    "router1": "¿Cómo funciona?",
+    "router2": "¿Quién puede usarlo?",
+    "router3": "Planes",
+    "router4": "Nosotros",
+    "router5": "Únete",
+    "register": "Regístrate"
+  },
+  "about": {
+    "title": "Acerca de nosotros",
+    "story": "Nuestra historia",
+    "showeare": "Ecomovil ha nacido de una idea simple: hacer el transporte más amigable con el medio ambiente, más asequible y más sostenible. Fundada por un grupo de estudiantes universitarios en 2024, hemos pasado de un pequeño proyecto a un próspero mercado impulsado por la comunidad.\n",
+    "ourmission": "Nuestra misión",
+    "whatareourmission": "Estamos en la misión de revolucionar la movilidad conectando a los estudiantes que quieren comprar, vender o alquilar bicicletas, patines y patinetas, a todo tipo de personas. Incluso si solo eres un turista, puedes ser parte de nuestro proyecto. No solo estamos ahorrando dinero a los estudiantes, estamos creando un futuro más sostenible.\n",
+    "learn": "Aprende más acerca de nosotros",
+    "ourteam": "Nuestro equipo",
+    "ourproduct": "Nuestro producto"
+  },
+  "footer": {
+    "title": "Ecomovil",
+    "about": "Nosotros",
+    "privacy": "Políticas de privacidad",
+    "terms": "Términos de servicio",
+    "rights": "2024 Ecomovil. Todos los derechos reservados",
+    "mail": "Correo: Ecomovil@gmail.com"
+  },
+  "how-it-works": {
+    "title": "Cómo funciona",
+    "steps": {
+      "listYourRide": {
+        "title": "Publica tu vehículo",
+        "description": "Lista fácilmente tu bicicleta, patines o monopatines para la venta o alquiler."
+      },
+      "connect": {
+        "title": "Conéctate",
+        "description": "Únete a nuestro foro para discutir, compartir consejos y conocer a otros ciclistas."
+      },
+      "earnBadges": {
+        "title": "Gana Insignias",
+        "description": "Obtén reconocimiento por tu actividad con insignias exclusivas de perfil."
+      }
+    }
+  },
+  "join": {
+    "title": "Únete a Ecomovil hoy",
+    "journey": "Comienza tu viaje hacia el transporte sostenible.",
+    "register": "Regístrate"
+  },
+  "main": {
+    "theme": "Pedalea, Rueda, Conecta",
+    "subtitle": "Tu mercado para ruedas y ofertas",
+    "journey": "Comienza tu viaje"
+  },
+  "plans": {
+    "choose": "Elige tu plan",
+    "chooseplan": "Elige Plan",
+    "freshman": {
+      "title": "Cachimbo",
+      "price": "Gratis/mes y luego $1.99/mes",
+      "features": {
+        "publications": "Permite 2 publicaciones por mes",
+        "assistance": "Asistencia básica"
+      }
+    },
+    "undergraduate": {
+      "title": "Universitario",
+      "price": "$5.99/mes",
+      "features": {
+        "publications": "Permite 10 publicaciones por mes",
+        "assistance": "Asistencia prioritaria",
+        "featuredPublications": "Publicaciones destacadas"
+      }
+    },
+    "graduate": {
+      "title": "Graduado",
+      "price": "$19.99/mes",
+      "features": {
+        "publications": "Publicaciones ilimitadas",
+        "assistance": "Asistencia 24/7"
+      }
+    }
+  },
+  "whocanuse": {
+    "title": "¿Quién puede usar Ecomovil?",
+    "graduates": "Universitarios",
+    "list": "Lista tus bicicletas, patines o patinetas para la venta o alquiler. ¡Gana ingresos extra!",
+    "join": "Únete como Universitario",
+    "acquirer": "Adquiriente",
+    "list2": "Busca y compra o alquila vehículos de propietarios estudiantes. Encuentra grandes ofertas en transporte universitario.",
+    "join2": "Únete como Adquiriente"
+  }
+}
