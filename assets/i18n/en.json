@@ -1,0 +1,93 @@
+{
+  "header": {
+    "router1": "How it Works",
+    "router2": "Who can use",
+    "router3": "Plans",
+    "router4": "About",
+    "router5": "Join",
+    "register": "Sign Up"
+  },
+  "about": {
+    "title": "About Us",
+    "story": "Our Story",
+    "showeare": "Ecomovil was born from a simple idea: make transportation more friendly with the environment, more affordable, and more sustainable. Founded by a group of college students in 2024, we've grown from a small project into a thriving community-driven marketplace.\n",
+    "ourmission": "Our Mission",
+    "whatareourmission": "We're on a mission to revolutionize mobility by connecting students who want to buy, sell, or rent bikes, rollerskates, and skates, to all kind of people even if you are just a tourist you can be part of our project. we're not just saving students money – we're creating a more sustainable future.\n",
+    "learn": "Learn more about us",
+    "ourteam": "Our Team",
+    "ourproduct": "Our Product"
+  },
+  "footer": {
+    "title": "Ecomovil",
+    "about": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "2024 Ecomovil. All rights reserved.",
+    "mail": "mail: Ecomovil.gmail.com"
+  },
+  "how-it-works": {
+    "title": "How it Works",
+    "steps": {
+      "listYourRide": {
+        "title": "List Your Ride",
+        "description": "Easily list your bike, rollerskates, or skates for sale or rent."
+      },
+      "connect": {
+        "title": "Connect",
+        "description": "Join our forum to discuss, share tips, and meet other riders."
+      },
+      "earnBadges": {
+        "title": "Earn Badges",
+        "description": "Get recognized for your activity with exclusive profile badges."
+      }
+    }
+  },
+  "join": {
+    "title": "Join Ecomovil Today",
+    "journey": "Start your journey towards sustainable transportation.",
+    "register": "Sign Up"
+  },
+  "main": {
+    "theme": "Pedal, Roll, Connect",
+    "subtitle": "Your marketplace for wheels and deals",
+    "journey": "Start Your Journey"
+  },
+  "plans": {
+    "choose": "Choose your plan",
+    "chooseplan": "Choose Plan",
+    "freshman": {
+      "title": "Freshman",
+      "price": "Free/month then $1.99/month",
+      "features": {
+        "publications": "Allows 2 publications per month",
+        "assistance": "Basic assistance"
+      }
+    },
+    "undergraduate": {
+      "title": "Undergraduate",
+      "price": "$5.99/month",
+      "features": {
+        "publications": "Allows 10 publications per month",
+        "assistance": "Prior assistance",
+        "featuredPublications": "Featured publications"
+      }
+    },
+    "graduate": {
+      "title": "Graduate",
+      "price": "$19.99/month",
+      "features": {
+        "publications": "Ilimited publications",
+        "assistance": "Assistance 24/7"
+      }
+    }
+  },
+  "whocanuse": {
+    "title": "Who can use Ecomovil?",
+    "graduates": "Undergraduates",
+    "list": "List your bikes, rollerskates, or skates for sale or rent. Earn extra income!.",
+    "join": "Join as a UnderGraduate",
+    "acquirer": "Acquirer",
+    "list2": "Browse and buy or rent vehicles from student owners. Find great deals on campus transportation.",
+    "join2": "Join as a Acquirer"
+  }
+}
